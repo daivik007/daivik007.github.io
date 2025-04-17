@@ -18,7 +18,7 @@ plugins:
   - GithubRepoStarsCountPlugin:
       - ZhgChgLi/ZMarkupParser
       - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
+      - daivik007/Rooting-A70s
       - ZhgChgLi/linkyee
 
 # Google Analytics tracking id
@@ -74,25 +74,25 @@ links:
       title: "Daivik's Dribbble"
       target: '_blank'
   - link:
-      icon: 'fa-brands fa-app-store-ios'
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
-      url: 'https://github.com/ZhgChgLi/ZReviewTender'
-      alt: 'ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow.'
-      title: 'ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow.'
-      target: '_blank'
-  - link:
-      icon: 'fa-brands fa-markdown'
-      text: "ZMediumToMarkdown <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMediumToMarkdown']}} Stars)</span>"
-      url: 'https://github.com/ZhgChgLi/ZMediumToMarkdown'
-      alt: 'ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.'
-      title: 'ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.'
-      target: '_blank'
-  - link:
       icon: 'fa-brands fa-github'
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} Stars)</span>"
-      url: 'https://github.com/ZhgChgLi/linkyee'
-      alt: 'linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages.'
-      title: 'linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages.'
+      text: 'GitHub'
+      url: 'https://github.com/daivik007'
+      alt: "Daivik's GitHub"
+      title: "Daivik's GitHub"
+      target: '_blank'
+  - link:
+      icon: 'fa-brands fa-behance'
+      text: 'Behance'
+      url: 'https://www.behance.net/daiviktrivedi'
+      alt: "Daivik's Behance"
+      title: "Daivik's Behance"
+      target: '_blank'
+  - link:
+      icon: 'fa-brands fa-youtube'
+      text: 'YouTube'
+      url: 'https://youtube.com/@Zephyryt07'
+      alt: "Daivik's YouTube"
+      title: "Daivik's YouTube"
       target: '_blank'
 
 # List of social media links
@@ -103,7 +103,7 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: 'fa-brands fa-medium'
+      icon: 'fa-brands fa-dribbble'
       url: 'https://blog.zhgchg.li'
       title: "ZhgChgLi's Medium"
       alt: "ZhgChgLi's Medium"
@@ -141,9 +141,9 @@ socials:
 
 # Footer text
 footer: >
-  Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
+  Hi there! Follow me on Dribbble or GitHub, or stay connected on Instagram or LinkedIn.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2024  <a href="https://zhgchg.li" target="_blank">ZhgChgLi</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © 2025 Powered by <a href="https://github.com/daivik007/daivik007.github.io" target="_blank">Github Pages</a>
