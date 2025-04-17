@@ -55,7 +55,7 @@ links:
   - link:
       icon: 'fa-brands fa-x-twitter'
       text: 'Twitter'
-      url: 'https://x.com/Zephyryt07'
+      url: 'https://x.com/daivikk07'
       alt: "Daivik's Twitter"
       title: "Daivik's Twitter"
       target: '_blank'
@@ -90,7 +90,7 @@ links:
   - link:
       icon: 'fa-brands fa-youtube'
       text: 'YouTube'
-      url: 'https://youtube.com/@Zephyryt07'
+      url: 'https://www.youtube.com/@Daivooks07'
       alt: "Daivik's YouTube"
       title: "Daivik's YouTube"
       target: '_blank'
@@ -104,39 +104,39 @@ links:
 socials:
   - social:
       icon: 'fa-brands fa-dribbble'
-      url: 'https://blog.zhgchg.li'
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
+      url: 'https://dribbble.com/daivik_07'
+      title: 'Dribbble'
+      alt: "Daivik's Dribbble"
       target: '_blank'
   - social:
       icon: 'fa-brands fa-github'
-      url: 'https://github.com/ZhgChgLi'
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
+      url: 'https://github.com/daivik007'
+      title: 'GitHub'
+      alt: "Daivik's GitHub"
       target: '_blank'
   - social:
       icon: 'fa-brands fa-twitter'
-      url: 'https://twitter.com/zhgchgli'
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
+      url: 'https://twitter.com/daivikk07'
+      title: 'Twitter'
+      alt: "Daivik's Twitter"
       target: '_blank'
   - social:
       icon: 'fa-brands fa-linkedin'
-      url: 'https://www.linkedin.com/in/zhgchgli/'
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
+      url: 'https://www.linkedin.com/in/daivik-trivedi-0b2a8b336/'
+      title: 'LinkedIn'
+      alt: "Daivik's LinkedIn"
       target: '_blank'
   - social:
       icon: 'fa-brands fa-instagram'
-      url: 'https://www.instagram.com/zhgchgli/'
+      url: 'https://www.instagram.com/daivikk.07/'
       title: 'Instagram'
-      alt: "ZhgChgLi's Instagram"
+      alt: "Daivik's Instagram"
       target: '_blank'
   - social:
       icon: 'fa-solid fa-envelope'
-      url: 'mailto:zhgchgli@gmail.com'
-      title: 'Email: zhgchgli@gmail.com'
-      alt: 'zhgchgli@gmail.com'
+      url: 'mailto:daivik.n.trivedi@gmail.com'
+      title: 'Email: daivik.n.trivedi@gmail.com'
+      alt: 'daivik.n.trivedi@gmail.com'
       target: '_blank'
 
 # Footer text
