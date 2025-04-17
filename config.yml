@@ -12,10 +12,14 @@ lang: 'en'
 # The output of the plugin can be used below, e.g., {{vars.MediumFollowersCountPlugin}}
 plugins:
   # Automatically fetch Medium follower count
-  - MediumFollowersCountPlugin:
-      username:
+  -  #MediumFollowersCountPlugin:
+    #username: zhgchgli
   # Automatically fetch Github repo star count
-  - GithubRepoStarsCountPlugin:
+  - #GithubRepoStarsCountPlugin:
+    -  #daivik007/ZReviewTender
+    -  #daivik007/ZMarkupParser
+    -  #daivik007/ZMediumToMarkdown
+    -  #daivik007/linkyee
 
 # Google Analytics tracking id
 google_analytics_id:
